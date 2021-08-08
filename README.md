@@ -8,10 +8,10 @@
 - ⚡ Fun fact: if you want the best chicken in honey sauce, go to Saint-Petersburg and checkout Tiger lily cafe!
 
 ### Connect with me:
-[<img align="left" alt="Telegram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1200px-Telegram_2019_Logo.svg.png" />][Telegram]
-<img align="left" alt="LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/2048px-Linkedin.svg.png" />
-[<img align="left" alt="Instagram" href="https://www.instagram.com/denisvershkov/" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" />][instagram]
-[<img align="left" alt="Facebook" href="https://www.instagram.com/denisvershkov/" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Facebook_icon_2013.svg/768px-Facebook_icon_2013.svg.png" />][Facebook]
+[<img align="left" alt="Telegram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1200px-Telegram_2019_Logo.svg.png" />](https://t.me/Snoopec)
+[<img align="left" alt="LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/2048px-Linkedin.svg.png" />](https://www.linkedin.com/in/denis-vershkov-00ab561a9/)
+[<img align="left" alt="Instagram" href="https://www.instagram.com/denisvershkov/" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" />](https://www.instagram.com/denisvershkov/)
+[<img align="left" alt="Facebook" href="https://www.instagram.com/denisvershkov/" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Facebook_icon_2013.svg/768px-Facebook_icon_2013.svg.png" />]()
 <br />
 
 ### Languages and Tools:
@@ -28,8 +28,3 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
-[instagram]: https://www.instagram.com/denisvershkov/;
-[linkedin]:;
-[Facebook]:;
-[Telegram]: https://t.me/Snoopec;
