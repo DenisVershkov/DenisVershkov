@@ -5,7 +5,6 @@
 - 🌱 I’m currently learning typescript and Next.js
 - 💬 Ask me about anything, i am happy to help
 - 📫 How to reach me: [Telegram](https://t.me/Snoopec).
-- ⚡ Fun fact: if you want the best chicken in honey sauce, go to Saint-Petersburg and checkout Tiger lily cafe!
 
 ### Connect with me:
 [<img align="left" alt="Telegram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1200px-Telegram_2019_Logo.svg.png" />](https://t.me/Snoopec)
