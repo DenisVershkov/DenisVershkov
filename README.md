@@ -1,9 +1,9 @@
 ### Hi there, thanks for visiting my github page!👋
 
-##### I'm Denis Vershkov, a passionate self-taught full stack web developer from Moscow. Personally, I treat my work as creativity. This applies not only to the UI, but also to the code itself. I pay great attention to architecture and code quality and never stop learning new best practices to improve as a developer and to make my projects better.
+##### I'm Denis Vershkov, a passionate self-taught frontend developer from Moscow. Personally, I treat my work as creativity. This applies not only to the UI, but also to the code itself. I pay great attention to architecture and code quality and never stop learning new best practices to improve as a developer.
 
-- 🌱 I’m currently learning typescript and Next.js
-- 💬 Ask me about anything, i am happy to help
+- 🌱 I’m currently learning GraphQl, Webpack and Styled Components
+- 💬 Ask me about anything, i am happy to help. BTW, check out one of my posts in [HABR](https://habr.com/ru/users/AverageFrontender/posts/).
 - 📫 How to reach me: [Telegram](https://t.me/Snoopec).
 
 ### Connect with me:
@@ -14,16 +14,11 @@
 <br />
 
 ### Languages and Tools:
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Avacode" width="26px" src="https://img.softline.com/mcf/e0080918aef5d65b63b590034098bee1/42b865dee0aa642b8c02/scale-dec-294x294.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Redux" width="26px" src="https://blog.telexarsoftware.com/wp-content/uploads/2019/11/logo-redux.png" />
-<img align="left" alt="Cloudinary" width="26px" src="https://miro.medium.com/max/1000/1*7CrSGB37vYF6kWga4PbJGA.png" />
-<img align="left" alt="JWT" width="26px" src="https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fdh9NkU%2FbtqQE8H2of4%2FZkG1PPPuAYqa9HhlgRz9gK%2Fimg.png" />
+<img align="left" alt="Effector" width="26px" src="https://repository-images.githubusercontent.com/123197392/2cfb4000-1310-11eb-8f8b-316a18c2ce65" />
+<img align="left" alt="Typescript" width="26px" src="https://miro.medium.com/max/816/1*mn6bOs7s6Qbao15PMNRyOA.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
