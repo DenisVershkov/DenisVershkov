@@ -19,5 +19,4 @@
 <img align="left" alt="Typescript" width="26px" src="https://miro.medium.com/max/816/1*mn6bOs7s6Qbao15PMNRyOA.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Redux" width="26px" src="https://blog.telexarsoftware.com/wp-content/uploads/2019/11/logo-redux.png" />
-<img align="left" alt="Effector" width='34px' height='24px' src="https://www.google.com/search?q=effector+js&sxsrf=ALiCzsaqU5XPxUZI2yhVIanG8k6ZgDuRfw:1667682127113&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiAo6OG-Jf7AhVRRvEDHRkVD2gQ_AUoAXoECAIQAw&biw=1728&bih=969&dpr=2#imgrc=Ye4qPV1H5OvzfM" />
 <img align="left" alt="MongoDB" width="26px" src="https://g.foolcdn.com/art/companylogos/square/mdb.png" />
