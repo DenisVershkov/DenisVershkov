@@ -13,10 +13,9 @@
 </br>
 
 ### Languages and Tools:
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Typescript" width="26px" src="https://miro.medium.com/max/816/1*mn6bOs7s6Qbao15PMNRyOA.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Redux" width="26px" src="https://blog.telexarsoftware.com/wp-content/uploads/2019/11/logo-redux.png" />
+<img align="left" alt="RxJs" width="26px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.knoldus.com%2Frxjs-operators-in-angular%2F&psig=AOvVaw1D8uM7n2kGSxy9PZWYs0rx&ust=1667768663857000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCMCD88f4l_sCFQAAAAAdAAAAABAE" />
 <img align="left" alt="MongoDB" width="26px" src="https://g.foolcdn.com/art/companylogos/square/mdb.png" />
