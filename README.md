@@ -17,5 +17,5 @@
 <img align="left" alt="Typescript" width="26px" src="https://miro.medium.com/max/816/1*mn6bOs7s6Qbao15PMNRyOA.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Redux" width="26px" src="https://blog.telexarsoftware.com/wp-content/uploads/2019/11/logo-redux.png" />
-<img align="left" alt="RxJs" width="26px" src="[https://blog.knoldus.com/wp-content/uploads/2019/02/Rxjs.png](https://blog.consdata.tech/assets/img/posts/2020-01-09-rxjs-wstep/RxJS.png)" />
+<img align="left" alt="RxJs" width="26px" src="https://blog.consdata.tech/assets/img/posts/2020-01-09-rxjs-wstep/RxJS.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://g.foolcdn.com/art/companylogos/square/mdb.png" />
