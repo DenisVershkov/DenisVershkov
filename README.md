@@ -1,6 +1,6 @@
 ### Hi there, thanks for visiting my github page!👋
 
-##### I'm Denis Vershkov, a passionate self-taught frontend developer from Moscow. Personally, I treat my work as creativity. This applies not only to the UI, but also to the code itself. I pay great attention to architecture and code quality and never stop learning new best practices to improve as a developer.
+##### I'm Denis Vershkov, a passionate self-taught frontend developer from Tbilisi, Georgia. Personally, I treat my work as creativity. This applies not only to the UI, but also to the code itself. I pay great attention to architecture and code quality and never stop learning new best practices to improve as a developer.
 
 - 🌱 I’m currently learning CI/CD, Webpack and DevOps instruments
 - 💬 Ask me about anything, i am happy to help. BTW, check out one of my posts in [HABR](https://habr.com/ru/users/AverageFrontender/posts/).
