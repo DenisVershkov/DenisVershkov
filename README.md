@@ -1,6 +1,6 @@
 ### Hi there!👋
 
-#### I'm Denis, a passionate self-taught frontend developer with more than 3 years of production experience working as a front-end engineer at top IT companies. 
+#### I'm Denis, a passionate self-taught frontend developer with more than 3 years of production experience working as a front-end engineer. 
 
 #### Some information about me:
 
