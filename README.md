@@ -13,6 +13,8 @@
 [<img align="left" alt="LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/2048px-Linkedin.svg.png" />](https://www.linkedin.com/in/denis-vershkov-00ab561a9/)
 [<img align="left" alt="Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" />](https://www.instagram.com/denisvershkov/)
 
+
+
 <h2 align="center">🛠️ My Toolbox: 🛠️</h2>
 <div align="center">
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Javascript Logo" width="50" height="50" /> 
@@ -26,7 +28,6 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"  alt="Sass logo" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  alt="CSS logo" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg"  alt="Redux logo" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg"  alt="Mongo logo" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg"  alt="GraphQL logo" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/react-query/react-query-original.svg"  alt="Redux logo" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg"  alt="Webpack logo" width="50" height="50"/>
 </div>
