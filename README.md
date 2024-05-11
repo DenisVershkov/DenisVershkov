@@ -18,16 +18,15 @@
 <h2 align="center">🛠️ My Toolbox: 🛠️</h2>
 <div align="center">
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Javascript Logo" width="50" height="50" /> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="Javascript Logo" width="50" height="50" /> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="Typescript Logo" width="50" height="50" /> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"  alt="React logo" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg"  alt="React logo" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"  alt="React logo" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg"  alt="React logo" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"  alt="Node Logo" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg"  alt="Terraform logo" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"  alt="Docker logo" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg"  alt="Kubernetes logo" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"  alt="Node JS Logo" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg"  alt="Express Logo" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"  alt="Sass logo" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  alt="CSS logo" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg"  alt="Redux logo" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/react-query/react-query-original.svg"  alt="Redux logo" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg"  alt="Webpack logo" width="50" height="50"/>
 </div>
