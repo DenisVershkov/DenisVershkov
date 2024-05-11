@@ -2,7 +2,7 @@
 
 #### I'm Denis, a passionate self-taught frontend developer with more than 3 years of production experience working as a front-end engineer. 
 
-#### Some information about me:
+### Some information about me:
 
 - 👷 I work at [Yandex Cloud](https://github.com/yandex-cloud), where i developed a lot of great services, such as: Backups, Smart Web Security, Cloud Video, Lockbox, etc.
 - 🎓 I like to share my knowledge with others. Check out my repositories, you will find a lot of interesting stuff there!
